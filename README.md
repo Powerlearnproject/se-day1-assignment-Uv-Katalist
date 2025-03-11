@@ -98,3 +98,10 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
     Clarity: Clearly defines the subject (a full-body portrait).
     Specificity: Includes details about appearance, clothing, and setting.
     Conciseness: Provides enough information without unnecessary complexity.
+
+## REFERENCES
+Sommerville, I. (2019). Software Engineering (10th ed.). Pearson.
+Pressman, R. S., & Maxim, B. R. (2020). Software Engineering: A Practitioner's Approach (9th ed.). McGraw-Hill.
+IEEE Computer Society. (2014). Guide to the Software Engineering Body of Knowledge (SWEBOK).
+GitHub Documentation. Introduction to Version Control. https://docs.github.com/en/get-started/using-git/about-version-control
+OpenAI Documentation. Best Practices for Prompt Engineering. https://platform.openai.com/docs/guides/prompt-engineering
